@@ -3,7 +3,7 @@
 
 # Ignore Gradle build output directory
 build
-
+# IntelliJ
 .idea
 
 local.properties
